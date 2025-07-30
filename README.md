@@ -1,2 +1,2 @@
-# Z-po-tov-program
+# Zapoctovy-program
 Existuje nucený mat do 3 tahů? Stay tuned...
