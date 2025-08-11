@@ -46,17 +46,25 @@ Výjimkou jsou pouze:
 
 Pokud náhodou při hře za obránce dojde k chybnému zapsání tahu, je uživateli nabídnuta možnost zapsat tah znovu.
 
-## Příklady pozic
+# Příklady pozic
 
 Zde je pár příkladů zajímavých pozic, které lze využít k otestování správného chodu programu:
-- ladder mate: 8/8/7k/1R6/2R5/8/8/K7 w - - 0 1
-- promotion mate: 7k/4Q3/8/1P6/8/8/8/K7 w - - 0 1
-- knight and bishop mate: 7k/8/4N1K1/6B1/8/8/8/8 w - - 0 1
-- smothered mate in 2: 5rrk/6pp/3N4/6N1/8/5P2/5QPP/6RK w - - 0 1
-- další:
-         - r5rk/5p1p/5R2/4B3/8/8/7P/7K w - - 0 1
-         - 5rrk/4Nbpp/5p2/8/5N2/P7/1P6/1K1R4 w - - 0 1
-         - R6R/1r3pp1/4p1kp/3pP3/1r2qPP1/7P/1P1Q3K/8 w - - 1 0
+
+\- ladder mate: 8/8/7k/1R6/2R5/8/8/K7 w - - 0 1
+
+\- promotion mate: 7k/4Q3/8/1P6/8/8/8/K7 w - - 0 1
+
+\- knight and bishop mate: 7k/8/4N1K1/6B1/8/8/8/8 w - - 0 1
+
+\- smothered mate in 2: 5rrk/6pp/3N4/6N1/8/5P2/5QPP/6RK w - - 0 1
+
+\- další:
+
+r5rk/5p1p/5R2/4B3/8/8/7P/7K w - - 0 1
+
+5rrk/4Nbpp/5p2/8/5N2/P7/1P6/1K1R4 w - - 0 1
+
+R6R/1r3pp1/4p1kp/3pP3/1r2qPP1/7P/1P1Q3K/8 w - - 1 0
 
 # Technická dokumentace
 
