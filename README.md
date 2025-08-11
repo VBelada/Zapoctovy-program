@@ -64,7 +64,7 @@ r5rk/5p1p/5R2/4B3/8/8/7P/7K w - - 0 1
 
 5rrk/4Nbpp/5p2/8/5N2/P7/1P6/1K1R4 w - - 0 1
 
-R6R/1r3pp1/4p1kp/3pP3/1r2qPP1/7P/1P1Q3K/8 w - - 1 0
+4r1k1/5bpp/2p5/3pr3/8/1B3pPq/PPR2P2/2R2QK1 b - - 0 1
 
 # Technická dokumentace
 
